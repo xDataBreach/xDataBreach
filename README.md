@@ -1,7 +1,7 @@
-# 👋 Hey, I'm xDatabase!
+# 👋 Hey, I'm xDataBreach!
 
 ```python
-print(f'Follow {xDatabaseDev} on Github')
+print(f'Follow {xDataBreach} on Github')
 ```
 
 ## 🚀 About Me
@@ -33,9 +33,9 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDatabaseDev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDataBreach&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDatabaseDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDataBreach&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
